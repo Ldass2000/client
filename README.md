@@ -1,4 +1,4 @@
-# Insticoonect client
+# Insticonect client
 # Project Title
 
 Mern Stack Signup and Login
